@@ -1,0 +1,103 @@
+﻿tahun,bulan,segmentasi_pasar,merk,model,tipe_kendaraan,units_terjual,market_share,harga_rata_rata_jt,penetrasi_ev
+2022,Januari,Low MPV,Toyota,Avanza,ICE,8567,12.3,250,0
+2022,Januari,Low MPV,Daihatsu,Xenia,ICE,7456,10.7,240,0
+2022,Januari,Compact SUV,Honda,HR-V,ICE,4234,6.1,350,0
+2022,Januari,City Car,Wuling,Air ev,BEV,892,1.3,280,100
+2022,Januari,Pickup Truck,Mitsubishi,Triton,ICE,3123,4.5,420,0
+2022,Februari,Low MPV,Toyota,Avanza,ICE,8123,11.8,250,0
+2022,Februari,Medium MPV,Toyota,Innova,ICE,5678,8.3,380,0
+2022,Februari,SUV,Hyundai,Creta,ICE,2876,4.2,360,0
+2022,Februari,City Car,Wuling,Air ev,BEV,956,1.4,280,100
+2022,Maret,Low MPV,Toyota,Avanza,ICE,9234,13.1,250,0
+2022,Maret,Low MPV,Daihatsu,Xenia,ICE,8123,11.5,240,0
+2022,Maret,Electric Vehicle,Hyundai,Ioniq 5,BEV,234,0.3,750,100
+2022,Maret,Medium MPV,Toyota,Innova,ICE,6123,8.7,380,0
+2022,April,Low MPV,Toyota,Avanza,ICE,7890,12.6,250,0
+2022,April,City Car,Wuling,Air ev,BEV,1023,1.6,280,100
+2022,April,Compact SUV,Honda,HR-V,ICE,4456,7.1,350,0
+2022,Mei,Low MPV,Toyota,Avanza,ICE,8345,13.2,250,0
+2022,Mei,Medium MPV,Toyota,Innova,ICE,5789,9.2,380,0
+2022,Mei,Electric Vehicle,Hyundai,Kona Electric,BEV,187,0.3,650,100
+2022,Juni,Low MPV,Toyota,Avanza,ICE,9123,14.1,250,0
+2022,Juni,City Car,Wuling,Air ev,BEV,1234,1.9,280,100
+2022,Juli,Low MPV,Toyota,Avanza,ICE,8765,13.8,250,0
+2022,Juli,Medium MPV,Toyota,Innova,ICE,5987,9.4,380,0
+2022,Agustus,Low MPV,Toyota,Avanza,ICE,9234,14.3,250,0
+2022,Agustus,City Car,Wuling,Air ev,BEV,1345,2.1,280,100
+2022,September,Low MPV,Toyota,Avanza,ICE,8456,13.6,250,0
+2022,September,Electric Vehicle,Hyundai,Ioniq 5,BEV,289,0.5,750,100
+2022,Oktober,Low MPV,Toyota,Avanza,ICE,9123,14.2,250,0
+2022,Oktober,Medium MPV,Toyota,Innova,ICE,6234,9.7,380,0
+2022,November,Low MPV,Toyota,Avanza,ICE,9789,15.1,250,0
+2022,November,City Car,Wuling,Air ev,BEV,1567,2.4,280,100
+2022,Desember,Low MPV,Toyota,Avanza,ICE,10567,16.2,250,0
+2022,Desember,Medium MPV,Toyota,Innova,ICE,7123,10.9,380,0
+2023,Januari,Low MPV,Toyota,Avanza,ICE,9234,13.8,255,0
+2023,Januari,Low MPV,Daihatsu,Xenia,ICE,8123,12.1,245,0
+2023,Januari,City Car,Wuling,Air ev,BEV,1789,2.7,285,100
+2023,Januari,Electric Vehicle,Hyundai,Ioniq 5,BEV,456,0.7,750,100
+2023,Februari,Low MPV,Toyota,Avanza,ICE,8678,13.2,255,0
+2023,Februari,Medium MPV,Toyota,Innova,ICE,5890,9.0,385,0
+2023,Februari,Electric Vehicle,Hyundai,Kona Electric,BEV,234,0.4,650,100
+2023,Maret,Low MPV,Toyota,Avanza,ICE,9456,14.1,255,0
+2023,Maret,City Car,Wuling,Air ev,BEV,1890,2.8,285,100
+2023,April,Low MPV,Toyota,Avanza,ICE,8234,12.9,255,0
+2023,April,Electric Vehicle,Hyundai,Ioniq 5,BEV,512,0.8,750,100
+2023,Mei,Low MPV,Toyota,Avanza,ICE,8789,13.7,255,0
+2023,Mei,Medium MPV,Toyota,Innova,ICE,6123,9.5,385,0
+2023,Juni,Low MPV,Toyota,Avanza,ICE,9567,14.8,255,0
+2023,Juni,City Car,Wuling,Air ev,BEV,2012,3.1,285,100
+2023,Juli,Low MPV,Toyota,Avanza,ICE,9123,14.2,255,0
+2023,Juli,Electric Vehicle,Hyundai,Ioniq 5,BEV,567,0.9,750,100
+2023,Agustus,Low MPV,Toyota,Avanza,ICE,9345,14.5,255,0
+2023,Agustus,Medium MPV,Toyota,Innova,ICE,6345,9.8,385,0
+2023,September,Low MPV,Toyota,Avanza,ICE,9678,15.0,255,0
+2023,September,City Car,Wuling,Air ev,BEV,2234,3.5,285,100
+2023,Oktober,Low MPV,Toyota,Avanza,ICE,9890,15.3,255,0
+2023,Oktober,Electric Vehicle,Hyundai,Kona Electric,BEV,289,0.4,650,100
+2023,November,Low MPV,Toyota,Avanza,ICE,10123,15.7,255,0
+2023,November,Medium MPV,Toyota,Innova,ICE,6789,10.5,385,0
+2023,Desember,Low MPV,Toyota,Avanza,ICE,11234,17.2,255,0
+2023,Desember,City Car,Wuling,Air ev,BEV,2456,3.8,285,100
+2024,Januari,Low MPV,Toyota,Avanza,ICE,8567,12.8,260,0
+2024,Januari,Low MPV,Daihatsu,Xenia,ICE,7456,11.1,250,0
+2024,Januari,City Car,Wuling,Air ev,BEV,2678,4.0,290,100
+2024,Januari,Electric Vehicle,Hyundai,Ioniq 5,BEV,678,1.0,750,100
+2024,Februari,Low MPV,Toyota,Avanza,ICE,8234,12.5,260,0
+2024,Februari,Medium MPV,Toyota,Innova,ICE,5678,8.6,390,0
+2024,Februari,Electric Vehicle,Hyundai,Kona Electric,BEV,345,0.5,650,100
+2024,Maret,Low MPV,Toyota,Avanza,ICE,8890,13.4,260,0
+2024,Maret,City Car,Wuling,Air ev,BEV,2890,4.4,290,100
+2024,April,Low MPV,Toyota,Avanza,ICE,8123,12.3,260,0
+2024,April,Electric Vehicle,Hyundai,Ioniq 5,BEV,789,1.2,750,100
+2024,Mei,Low MPV,Toyota,Avanza,ICE,8678,13.1,260,0
+2024,Mei,Medium MPV,Toyota,Innova,ICE,5890,8.9,390,0
+2024,Juni,Low MPV,Toyota,Avanza,ICE,9234,13.9,260,0
+2024,Juni,City Car,Wuling,Air ev,BEV,3123,4.7,290,100
+2024,Juli,Low MPV,Toyota,Avanza,ICE,8789,13.3,260,0
+2024,Juli,Electric Vehicle,Hyundai,Ioniq 5,BEV,856,1.3,750,100
+2024,Agustus,Low MPV,Toyota,Avanza,ICE,9012,13.6,260,0
+2024,Agustus,Medium MPV,Toyota,Innova,ICE,6123,9.2,390,0
+2024,September,Low MPV,Toyota,Avanza,ICE,9345,14.1,260,0
+2024,September,City Car,Wuling,Air ev,BEV,3345,5.1,290,100
+2024,Oktober,Low MPV,Toyota,Avanza,ICE,9567,14.4,260,0
+2024,Oktober,Electric Vehicle,Hyundai,Kona Electric,BEV,412,0.6,650,100
+2024,November,Low MPV,Toyota,Avanza,ICE,9789,14.7,260,0
+2024,November,Medium MPV,Toyota,Innova,ICE,6456,9.7,390,0
+2024,Desember,Low MPV,Toyota,Avanza,ICE,10567,15.9,260,0
+2024,Desember,City Car,Wuling,Air ev,BEV,3789,5.7,290,100
+2025,Januari,Low MPV,Toyota,Avanza,ICE,7890,11.2,265,0
+2025,Januari,Low MPV,Daihatsu,Xenia,ICE,6789,9.6,255,0
+2025,Januari,City Car,Wuling,Air ev,BEV,4123,5.8,295,100
+2025,Januari,Electric Vehicle,Hyundai,Ioniq 5,BEV,923,1.3,750,100
+2025,Februari,Low MPV,Toyota,Avanza,ICE,7567,10.9,265,0
+2025,Februari,Medium MPV,Toyota,Innova,ICE,5234,7.5,395,0
+2025,Februari,Electric Vehicle,Hyundai,Kona Electric,BEV,512,0.7,650,100
+2025,Maret,Low MPV,Toyota,Avanza,ICE,8123,11.6,265,0
+2025,Maret,City Car,Wuling,Air ev,BEV,4456,6.4,295,100
+2025,April,Low MPV,Toyota,Avanza,ICE,7456,10.8,265,0
+2025,April,Electric Vehicle,Hyundai,Ioniq 5,BEV,1056,1.5,750,100
+2025,Mei,Low MPV,Toyota,Avanza,ICE,7890,11.3,265,0
+2025,Mei,Medium MPV,Toyota,Innova,ICE,5456,7.8,395,0
+2025,Juni,Low MPV,Toyota,Avanza,ICE,8345,11.9,265,0
+2025,Juni,City Car,Wuling,Air ev,BEV,4789,6.8,295,100
